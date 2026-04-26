@@ -106,6 +106,11 @@ The business generates strong sales volume, but high costs exceed revenue, resul
 The analysis highlights that while the business performs well in terms of sales, poor cost management leads to continuous losses. Strategic cost and pricing improvements are necessary for profitability.
 
 ---
+## 🌐 Live Dashboard
+
+Due to Power BI service restrictions (organizational account required), the live dashboard link is not available.
+
+However, the complete dashboard file (.pbix) and preview image are included in this repository.
 
 ##  Dashboard Preview
 
